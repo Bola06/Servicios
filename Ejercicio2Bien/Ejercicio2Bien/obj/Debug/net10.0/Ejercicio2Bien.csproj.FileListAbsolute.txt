@@ -1,0 +1,14 @@
+D:\Users\usuario\Desktop\Programación2\Ejercicio2Bien\Ejercicio2Bien\obj\Debug\net10.0\Ejercicio2Bien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\usuario\Desktop\Programación2\Ejercicio2Bien\Ejercicio2Bien\obj\Debug\net10.0\Ejercicio2Bien.AssemblyInfoInputs.cache
+D:\Users\usuario\Desktop\Programación2\Ejercicio2Bien\Ejercicio2Bien\obj\Debug\net10.0\Ejercicio2Bien.AssemblyInfo.cs
+D:\Users\usuario\Desktop\Programación2\Ejercicio2Bien\Ejercicio2Bien\obj\Debug\net10.0\Ejercicio2Bien.csproj.CoreCompileInputs.cache
+D:\Users\usuario\Desktop\Programación2\Ejercicio2Bien\Ejercicio2Bien\bin\Debug\net10.0\Ejercicio2Bien.exe
+D:\Users\usuario\Desktop\Programación2\Ejercicio2Bien\Ejercicio2Bien\bin\Debug\net10.0\Ejercicio2Bien.deps.json
+D:\Users\usuario\Desktop\Programación2\Ejercicio2Bien\Ejercicio2Bien\bin\Debug\net10.0\Ejercicio2Bien.runtimeconfig.json
+D:\Users\usuario\Desktop\Programación2\Ejercicio2Bien\Ejercicio2Bien\bin\Debug\net10.0\Ejercicio2Bien.dll
+D:\Users\usuario\Desktop\Programación2\Ejercicio2Bien\Ejercicio2Bien\bin\Debug\net10.0\Ejercicio2Bien.pdb
+D:\Users\usuario\Desktop\Programación2\Ejercicio2Bien\Ejercicio2Bien\obj\Debug\net10.0\Ejercicio2Bien.dll
+D:\Users\usuario\Desktop\Programación2\Ejercicio2Bien\Ejercicio2Bien\obj\Debug\net10.0\refint\Ejercicio2Bien.dll
+D:\Users\usuario\Desktop\Programación2\Ejercicio2Bien\Ejercicio2Bien\obj\Debug\net10.0\Ejercicio2Bien.pdb
+D:\Users\usuario\Desktop\Programación2\Ejercicio2Bien\Ejercicio2Bien\obj\Debug\net10.0\Ejercicio2Bien.genruntimeconfig.cache
+D:\Users\usuario\Desktop\Programación2\Ejercicio2Bien\Ejercicio2Bien\obj\Debug\net10.0\ref\Ejercicio2Bien.dll
