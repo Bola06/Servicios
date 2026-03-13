@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ejercicio2Bien/1.0.0": {
+        "runtime": {
+          "Ejercicio2Bien.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio2Bien/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
