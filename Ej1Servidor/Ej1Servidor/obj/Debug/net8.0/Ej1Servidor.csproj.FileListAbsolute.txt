@@ -1,0 +1,42 @@
+D:\2DAM\Programación de procesos\Servidores\Ej1Servidor\Ej1Servidor\bin\Debug\net8.0\Ej1Servidor.exe
+D:\2DAM\Programación de procesos\Servidores\Ej1Servidor\Ej1Servidor\bin\Debug\net8.0\Ej1Servidor.deps.json
+D:\2DAM\Programación de procesos\Servidores\Ej1Servidor\Ej1Servidor\bin\Debug\net8.0\Ej1Servidor.runtimeconfig.json
+D:\2DAM\Programación de procesos\Servidores\Ej1Servidor\Ej1Servidor\bin\Debug\net8.0\Ej1Servidor.dll
+D:\2DAM\Programación de procesos\Servidores\Ej1Servidor\Ej1Servidor\bin\Debug\net8.0\Ej1Servidor.pdb
+D:\2DAM\Programación de procesos\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DAM\Programación de procesos\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.AssemblyInfoInputs.cache
+D:\2DAM\Programación de procesos\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.AssemblyInfo.cs
+D:\2DAM\Programación de procesos\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.csproj.CoreCompileInputs.cache
+D:\2DAM\Programación de procesos\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.dll
+D:\2DAM\Programación de procesos\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\refint\Ej1Servidor.dll
+D:\2DAM\Programación de procesos\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.pdb
+D:\2DAM\Programación de procesos\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.genruntimeconfig.cache
+D:\2DAM\Programación de procesos\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\ref\Ej1Servidor.dll
+C:\Users\Borja\Desktop\Servidores\Ej1Servidor\Ej1Servidor\bin\Debug\net8.0\Ej1Servidor.exe
+C:\Users\Borja\Desktop\Servidores\Ej1Servidor\Ej1Servidor\bin\Debug\net8.0\Ej1Servidor.deps.json
+C:\Users\Borja\Desktop\Servidores\Ej1Servidor\Ej1Servidor\bin\Debug\net8.0\Ej1Servidor.runtimeconfig.json
+C:\Users\Borja\Desktop\Servidores\Ej1Servidor\Ej1Servidor\bin\Debug\net8.0\Ej1Servidor.dll
+C:\Users\Borja\Desktop\Servidores\Ej1Servidor\Ej1Servidor\bin\Debug\net8.0\Ej1Servidor.pdb
+C:\Users\Borja\Desktop\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borja\Desktop\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.AssemblyInfoInputs.cache
+C:\Users\Borja\Desktop\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.AssemblyInfo.cs
+C:\Users\Borja\Desktop\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Borja\Desktop\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.dll
+C:\Users\Borja\Desktop\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\refint\Ej1Servidor.dll
+C:\Users\Borja\Desktop\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.pdb
+C:\Users\Borja\Desktop\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.genruntimeconfig.cache
+C:\Users\Borja\Desktop\Servidores\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\ref\Ej1Servidor.dll
+d:\Users\usuario\Desktop\Programación2\Ej1Servidor\Ej1Servidor\bin\Debug\net8.0\Ej1Servidor.exe
+d:\Users\usuario\Desktop\Programación2\Ej1Servidor\Ej1Servidor\bin\Debug\net8.0\Ej1Servidor.deps.json
+d:\Users\usuario\Desktop\Programación2\Ej1Servidor\Ej1Servidor\bin\Debug\net8.0\Ej1Servidor.runtimeconfig.json
+d:\Users\usuario\Desktop\Programación2\Ej1Servidor\Ej1Servidor\bin\Debug\net8.0\Ej1Servidor.dll
+d:\Users\usuario\Desktop\Programación2\Ej1Servidor\Ej1Servidor\bin\Debug\net8.0\Ej1Servidor.pdb
+d:\Users\usuario\Desktop\Programación2\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\usuario\Desktop\Programación2\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.AssemblyInfoInputs.cache
+d:\Users\usuario\Desktop\Programación2\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.AssemblyInfo.cs
+d:\Users\usuario\Desktop\Programación2\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.csproj.CoreCompileInputs.cache
+d:\Users\usuario\Desktop\Programación2\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.dll
+d:\Users\usuario\Desktop\Programación2\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\refint\Ej1Servidor.dll
+d:\Users\usuario\Desktop\Programación2\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.pdb
+d:\Users\usuario\Desktop\Programación2\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\Ej1Servidor.genruntimeconfig.cache
+d:\Users\usuario\Desktop\Programación2\Ej1Servidor\Ej1Servidor\obj\Debug\net8.0\ref\Ej1Servidor.dll

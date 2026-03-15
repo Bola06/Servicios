@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "Ej1Servidor\\Ej1Servidor.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WindowsFormsApp1\\ClienteEj1.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
