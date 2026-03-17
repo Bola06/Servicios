@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej1Servidor", "Ej1Servidor\Ej1Servidor.csproj", "{4BC77AB8-872D-45B4-8011-3F5BD1B89191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteEj1", "WindowsFormsApp1\ClienteEj1.csproj", "{CEAEAC95-A8B4-499F-9588-D3C53758A7D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BC77AB8-872D-45B4-8011-3F5BD1B89191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC77AB8-872D-45B4-8011-3F5BD1B89191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC77AB8-872D-45B4-8011-3F5BD1B89191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC77AB8-872D-45B4-8011-3F5BD1B89191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEAEAC95-A8B4-499F-9588-D3C53758A7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAEAC95-A8B4-499F-9588-D3C53758A7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAEAC95-A8B4-499F-9588-D3C53758A7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAEAC95-A8B4-499F-9588-D3C53758A7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E837F15B-1631-43AF-8FC4-1410CE385A48}
+	EndGlobalSection
+EndGlobal
